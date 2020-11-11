@@ -1,0 +1,5 @@
+*
+!.gitignore
+!*/
+!*/data/languages/*
+*/data/languages/*.sla
